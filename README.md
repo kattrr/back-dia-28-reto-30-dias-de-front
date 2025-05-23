@@ -20,7 +20,7 @@ Incluye conexión a base de datos, enrutamiento y soporte para variables de ento
 
 ```bash
 git clone https://github.com/kattrr/back-dia-28-reto-30-dias-de-front.git
-cd proyecto-backend
+cd back-dia-28-reto-30-dias-de-front
 ```
 
 ### 2. Instalar dependencias
